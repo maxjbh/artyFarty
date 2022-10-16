@@ -1,0 +1,49 @@
+Turn, Event, Origin City, Destination City, Attached Resource, Origin Yields
+180, Route Started, LOC_CITY_NAME_HATTUSA, WEST Port,Resource -1 (x0),Origin Yields,2.00,0.00,3.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,2.00,0.00,0.00,0.00
+180, Route Started, LOC_CITY_NAME_LA_VENTA, LOC_CITY_NAME_OTTAWA,Resource -1 (x0),Origin Yields,0.00,0.00,7.00,1.00,0.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+180, Route Ended (Expired), LOC_CITY_NAME_JERUSALEM, Velkor-Daro,Resource -1 (x0),Origin Yields,2.00,1.00,4.00,1.00,1.00,0.00,Destination Yields,0.00,0.00,2.00,0.00,0.00,0.00
+180, Route Started, Relos, LOC_CITY_NAME_NARANJO,Resource -1 (x0),Origin Yields,0.00,1.00,18.00,2.00,2.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+181, Route Started, LOC_CITY_NAME_JERUSALEM, LOC_CITY_NAME_NGULU_MAPU,Resource -1 (x0),Origin Yields,0.00,1.00,3.00,1.00,1.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+182, Route Ended (Expired), Relos, Great Plains,Resource -1 (x0),Origin Yields,1.00,2.00,2.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+183, Route Started, Relos, LOC_CITY_NAME_PALENQUE_MAYA,Resource -1 (x0),Origin Yields,0.00,0.00,26.37,2.00,1.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+183, Route Ended (Expired), LOC_CITY_NAME_NARANJO, LOC_CITY_NAME_YOKIB,Resource -1 (x0),Origin Yields,5.00,4.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+185, Route Started, LOC_CITY_NAME_NARANJO, Velkor-Daro,Resource -1 (x0),Origin Yields,2.00,1.00,12.00,1.00,1.00,0.00,Destination Yields,0.00,0.00,2.00,0.00,0.00,0.00
+186, Route Ended (Expired), LOC_CITY_NAME_CHICHEN_ITZA, LOC_CITY_NAME_NARANJO,Resource -1 (x0),Origin Yields,3.00,3.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+187, Route Started, LOC_CITY_NAME_CHICHEN_ITZA, Velkor-Daro,Resource -1 (x0),Origin Yields,2.00,1.00,12.00,1.00,1.00,0.00,Destination Yields,0.00,0.00,2.00,0.00,0.00,0.00
+188, Route Started, CROOKED THRONE, LOC_CITY_NAME_YOKIB,Resource -1 (x0),Origin Yields,0.00,2.00,23.00,2.00,1.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+188, Route Ended (Expired), CROOKED THRONE, LOC_CITY_NAME_NARANJO,Resource -1 (x0),Origin Yields,0.00,1.00,30.00,2.00,2.00,0.00,Destination Yields,0.00,0.00,4.00,0.00,0.00,0.00
+189, Route Ended (Expired), LOC_CITY_NAME_CARTAGENA_DE_INDIAS, LOC_CITY_NAME_PANAMA,Resource -1 (x0),Origin Yields,2.00,2.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+189, Route Ended (Expired), LOC_CITY_NAME_SINGAPORE, LOC_CITY_NAME_CHADI_MAPU,Resource -1 (x0),Origin Yields,0.00,1.00,4.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+189, Route Started, Relos, LOC_CITY_NAME_YOKIB,Resource -1 (x0),Origin Yields,0.00,2.00,28.00,2.00,1.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+190, Route Started, LOC_CITY_NAME_CARTAGENA_DE_INDIAS, LOC_CITY_NAME_CUENCA,Resource -1 (x0),Origin Yields,3.00,2.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+190, Route Started, LOC_CITY_NAME_SINGAPORE, LOC_CITY_NAME_CHARLESTON,Resource -1 (x0),Origin Yields,0.00,0.00,4.99,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+190, Route Started, WEST Port, LOC_CITY_NAME_NARANJO,Resource -1 (x0),Origin Yields,0.00,1.00,31.00,2.00,2.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+192, Route Ended (City Destroyed), LOC_CITY_NAME_BAKAVU, LOC_CITY_NAME_MBANZA_KONGO,Resource -1 (x0),Origin Yields,2.00,3.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+192, Route Ended (City Destroyed), CROOKED THRONE, LOC_CITY_NAME_MBANZA_KONGO,Resource -1 (x0),Origin Yields,0.00,1.00,21.00,2.00,1.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+192, Route Started, LOC_CITY_NAME_BAKAVU, Relos,Resource -1 (x0),Origin Yields,2.00,0.00,8.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,4.00,0.00,0.00,0.00
+192, Route Started, CROOKED THRONE, LOC_CITY_NAME_NARANJO,Resource -1 (x0),Origin Yields,0.00,1.00,28.00,2.00,2.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+193, Route Started, LOC_CITY_NAME_OTTAWA, LOC_CITY_NAME_BOSTON,Resource -1 (x0),Origin Yields,0.00,0.00,9.27,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+194, Route Ended (Expired), LOC_CITY_NAME_RAPA_NUI, LOC_CITY_NAME_CARTAGENA_DE_INDIAS,Resource -1 (x0),Origin Yields,0.00,1.00,4.00,0.00,1.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+194, Route Ended (Expired), LOC_CITY_NAME_CHICHEN_ITZA, LOC_CITY_NAME_PALENQUE_MAYA,Resource -1 (x0),Origin Yields,4.00,2.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+195, Route Started, LOC_CITY_NAME_RAPA_NUI, LOC_CITY_NAME_BOGOTA,Resource -1 (x0),Origin Yields,0.00,0.00,6.00,1.00,0.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+195, Route Started, LOC_CITY_NAME_CHICHEN_ITZA, Green Vale,Resource -1 (x0),Origin Yields,4.00,3.00,12.00,1.00,0.00,1.00,Destination Yields,2.00,2.00,2.00,0.00,0.00,0.00
+198, Route Started, Nerevos, LOC_CITY_NAME_NARANJO,Resource -1 (x0),Origin Yields,0.00,1.00,28.00,2.00,2.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+200, Route Ended (City Destroyed), LOC_CITY_NAME_BAKAVU, Relos,Resource -1 (x0),Origin Yields,2.00,1.00,8.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,4.00,0.00,0.00,0.00
+201, Route Started, LOC_CITY_NAME_MAJAPAHIT, Relos,Resource -1 (x0),Origin Yields,2.00,1.00,14.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,4.00,0.00,0.00,0.00
+203, Route Started, LOC_CITY_NAME_QUITO, LOC_CITY_NAME_PANAMA,Resource -1 (x0),Origin Yields,2.00,3.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+205, Route Ended (Expired), LOC_CITY_NAME_OTTAWA, LOC_CITY_NAME_NEW_YORK,Resource -1 (x0),Origin Yields,0.00,1.00,4.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+205, Route Ended (Expired), LOC_CITY_NAME_CARDIFF, LOC_CITY_NAME_PHILADELPHIA,Resource -1 (x0),Origin Yields,0.00,0.00,4.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+206, Route Ended (Expired), LOC_CITY_NAME_NEW_YORK, LOC_CITY_NAME_WASHINGTON,Resource -1 (x0),Origin Yields,3.00,2.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+206, Route Started, LOC_CITY_NAME_OTTAWA, LOC_CITY_NAME_CHICAGO,Resource -1 (x0),Origin Yields,0.00,1.00,3.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+206, Route Started, LOC_CITY_NAME_CARDIFF, LOC_CITY_NAME_PHILADELPHIA,Resource -1 (x0),Origin Yields,0.00,0.00,4.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+207, Route Ended (Plundered), LOC_CITY_NAME_CARDIFF, LOC_CITY_NAME_PHILADELPHIA,Resource -1 (x0),Origin Yields,0.00,0.00,4.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+207, Route Started, LOC_CITY_NAME_NEW_YORK, LOC_CITY_NAME_BOSTON,Resource -1 (x0),Origin Yields,1.00,2.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+207, Route Ended (City Destroyed), LOC_CITY_NAME_OTTAWA, LOC_CITY_NAME_CHICAGO,Resource -1 (x0),Origin Yields,0.00,1.00,3.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+207, Route Started, LOC_CITY_NAME_OTTAWA, LOC_CITY_NAME_LOJA,Resource -1 (x0),Origin Yields,0.00,0.00,4.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+212, Route Ended (Expired), LOC_CITY_NAME_JERUSALEM, LOC_CITY_NAME_NGULU_MAPU,Resource -1 (x0),Origin Yields,1.00,1.00,4.00,1.00,1.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+213, Route Started, LOC_CITY_NAME_CARDIFF, LOC_CITY_NAME_BOGOTA,Resource -1 (x0),Origin Yields,0.00,0.00,6.00,1.00,0.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+213, Route Started, LOC_CITY_NAME_JERUSALEM, LOC_CITY_NAME_KWILA,Resource -1 (x0),Origin Yields,0.00,1.00,3.00,1.00,1.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+216, Route Started, LOC_CITY_NAME_LISBON, LOC_CITY_NAME_WASHINGTON,Resource -1 (x0),Origin Yields,0.00,1.00,3.00,1.00,0.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+218, Route Ended (Expired), LOC_CITY_NAME_CHICHEN_ITZA, LOC_CITY_NAME_YOKIB,Resource -1 (x0),Origin Yields,4.00,4.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+219, Route Ended (Expired), LOC_CITY_NAME_HATTUSA, WEST Port,Resource -1 (x0),Origin Yields,2.00,0.00,7.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,2.00,0.00,0.00,0.00
+219, Route Started, LOC_CITY_NAME_CHICHEN_ITZA, LOC_CITY_NAME_NARANJO,Resource -1 (x0),Origin Yields,5.00,3.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00

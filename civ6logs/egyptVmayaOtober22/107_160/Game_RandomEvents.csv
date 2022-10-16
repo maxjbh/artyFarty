@@ -1,0 +1,276 @@
+Game Turn, Realism, Total CO2, CO2 Bldgs, CO2 Projects, CO2 Routes, CO2 Units, Deforestation, ClimateChange, Volcanoes (Total), NW Volcanoes, Volcanoes (Active), Eruptions, Floodable Rivers, Floods, NaturalWonderEruptions
+107, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 7, 5, 12, 13, 0
+108, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 7, 5, 12, 13, 0
+109, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 8, 5, 12, 13, 0
+109, FLOOD, Severity = 0, Wazalafken River, Floodplain at: (47 - 38), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 2
+110, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 8, 5, 12, 14, 0
+110, ENHANCED TILES, At plot: 626, 626,
+110, ONEOFF, Severity = 1, Forest Fire, Center at: (50 - 6), Tiles Damaged = 0
+111, ENHANCED TILES, At plot: 627, 627,
+111, ONEOFF, Severity = 1, Forest Fire, Center at: (51 - 6), Tiles Damaged = 0
+111, ENHANCED TILES, At plot: 721, 721,
+111, ONEOFF, Severity = 1, Forest Fire, Center at: (49 - 7), Tiles Damaged = 0
+111, ONEOFF, Severity = 1, Forest Fire, Center at: (50 - 6), Tiles Damaged = 0
+111, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 8, 5, 12, 14, 0
+112, ENHANCED TILES, At plot: 626, 626,
+112, ONEOFF, Severity = 1, Forest Fire, Center at: (50 - 6), Tiles Damaged = 0
+112, ENHANCED TILES, At plot: 723, 723,
+112, ONEOFF, Severity = 1, Forest Fire, Center at: (51 - 7), Tiles Damaged = 0
+112, ENHANCED TILES, At plot: 531, 531,
+112, ONEOFF, Severity = 1, Forest Fire, Center at: (51 - 5), Tiles Damaged = 0
+112, ENHANCED TILES, At plot: 628, 628,
+112, ONEOFF, Severity = 1, Forest Fire, Center at: (52 - 6), Tiles Damaged = 0
+112, ONEOFF, Severity = 1, Forest Fire, Center at: (51 - 6), Tiles Damaged = 0
+112, ONEOFF, Severity = 1, Forest Fire, Center at: (49 - 7), Tiles Damaged = 0
+112, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 8, 5, 12, 14, 0
+112, ENHANCED TILES, At plot: 626, 626,
+112, ONEOFF, Severity = 1, Forest Fire, Center at: (50 - 6), Tiles Damaged = 0
+112, ENHANCED TILES, At plot: 723, 723,
+112, ONEOFF, Severity = 1, Forest Fire, Center at: (51 - 7), Tiles Damaged = 0
+112, ENHANCED TILES, At plot: 531, 531,
+112, ONEOFF, Severity = 1, Forest Fire, Center at: (51 - 5), Tiles Damaged = 0
+112, ENHANCED TILES, At plot: 628, 628,
+112, ONEOFF, Severity = 1, Forest Fire, Center at: (52 - 6), Tiles Damaged = 0
+112, ONEOFF, Severity = 1, Forest Fire, Center at: (51 - 6), Tiles Damaged = 0
+112, ONEOFF, Severity = 1, Forest Fire, Center at: (49 - 7), Tiles Damaged = 0
+112, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 8, 5, 12, 14, 0
+113, ONEOFF, Severity = 1, Forest Fire, Center at: (50 - 6), Tiles Damaged = 0
+113, ENHANCED TILES, At plot: 627, 627,
+113, ONEOFF, Severity = 1, Forest Fire, Center at: (51 - 6), Tiles Damaged = 0
+113, ENHANCED TILES, At plot: 721, 721,
+113, ONEOFF, Severity = 1, Forest Fire, Center at: (49 - 7), Tiles Damaged = 0
+113, ONEOFF, Severity = 1, Forest Fire, Center at: (51 - 7), Tiles Damaged = 0
+113, ONEOFF, Severity = 1, Forest Fire, Center at: (51 - 5), Tiles Damaged = 0
+113, ENHANCED TILES, At plot: 532, 532,
+113, ONEOFF, Severity = 1, Forest Fire, Center at: (52 - 5), Tiles Damaged = 0
+113, ENHANCED TILES, At plot: 629, 629,
+113, ONEOFF, Severity = 1, Forest Fire, Center at: (53 - 6), Tiles Damaged = 0
+113, ONEOFF, Severity = 1, Forest Fire, Center at: (52 - 6), Tiles Damaged = 0
+113, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 8, 5, 12, 14, 0
+114, ONEOFF, Severity = 1, Forest Fire, Center at: (50 - 6), Tiles Damaged = 0
+114, ONEOFF, Severity = 1, Forest Fire, Center at: (51 - 6), Tiles Damaged = 0
+114, ONEOFF, Severity = 1, Forest Fire, Center at: (49 - 7), Tiles Damaged = 0
+114, ENHANCED TILES, At plot: 723, 723,
+114, ONEOFF, Severity = 1, Forest Fire, Center at: (51 - 7), Tiles Damaged = 0
+114, ENHANCED TILES, At plot: 531, 531,
+114, ONEOFF, Severity = 1, Forest Fire, Center at: (51 - 5), Tiles Damaged = 0
+114, ENHANCED TILES, At plot: 628, 628,
+114, ONEOFF, Severity = 1, Forest Fire, Center at: (52 - 6), Tiles Damaged = 0
+114, ONEOFF, Severity = 1, Forest Fire, Center at: (52 - 5), Tiles Damaged = 0
+114, ENHANCED TILES, At plot: 630, 630,
+114, ONEOFF, Severity = 1, Forest Fire, Center at: (54 - 6), Tiles Damaged = 0
+114, ONEOFF, Severity = 1, Forest Fire, Center at: (53 - 6), Tiles Damaged = 0
+114, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 8, 5, 12, 14, 0
+114, ERUPTION, Severity=1, Galunggung, Volcano at: (22 - 23), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 4
+115, ONEOFF, Severity = 1, Forest Fire, Center at: (50 - 6), Tiles Damaged = 0
+115, ONEOFF, Severity = 1, Forest Fire, Center at: (51 - 6), Tiles Damaged = 0
+115, ONEOFF, Severity = 1, Forest Fire, Center at: (49 - 7), Tiles Damaged = 0
+115, ONEOFF, Severity = 1, Forest Fire, Center at: (51 - 7), Tiles Damaged = 0
+115, ONEOFF, Severity = 1, Forest Fire, Center at: (51 - 5), Tiles Damaged = 0
+115, ONEOFF, Severity = 1, Forest Fire, Center at: (52 - 6), Tiles Damaged = 0
+115, ENHANCED TILES, At plot: 532, 532,
+115, ONEOFF, Severity = 1, Forest Fire, Center at: (52 - 5), Tiles Damaged = 0
+115, ENHANCED TILES, At plot: 629, 629,
+115, ONEOFF, Severity = 1, Forest Fire, Center at: (53 - 6), Tiles Damaged = 0
+115, ENHANCED TILES, At plot: 631, 631,
+115, ONEOFF, Severity = 1, Forest Fire, Center at: (55 - 6), Tiles Damaged = 0
+115, ONEOFF, Severity = 1, Forest Fire, Center at: (54 - 6), Tiles Damaged = 0
+115, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 8, 6, 12, 14, 0
+115, ERUPTION, Severity=0, Galunggung, Volcano at: (22 - 23), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+116, ENHANCED TILES, At plot: 626, 626,
+116, ONEOFF, Severity = 1, Forest Fire, Center at: (50 - 6), Tiles Damaged = 0
+116, ONEOFF, Severity = 1, Forest Fire, Center at: (51 - 6), Tiles Damaged = 0
+116, ONEOFF, Severity = 1, Forest Fire, Center at: (49 - 7), Tiles Damaged = 0
+116, ONEOFF, Severity = 1, Forest Fire, Center at: (51 - 7), Tiles Damaged = 0
+116, ONEOFF, Severity = 1, Forest Fire, Center at: (51 - 5), Tiles Damaged = 0
+116, ONEOFF, Severity = 1, Forest Fire, Center at: (52 - 6), Tiles Damaged = 0
+116, ONEOFF, Severity = 1, Forest Fire, Center at: (52 - 5), Tiles Damaged = 0
+116, ONEOFF, Severity = 1, Forest Fire, Center at: (53 - 6), Tiles Damaged = 0
+116, ENHANCED TILES, At plot: 630, 630,
+116, ONEOFF, Severity = 1, Forest Fire, Center at: (54 - 6), Tiles Damaged = 0
+116, ONEOFF, Severity = 1, Forest Fire, Center at: (55 - 6), Tiles Damaged = 0
+116, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 8, 7, 12, 14, 0
+117, ONEOFF, Severity = 1, Forest Fire, Center at: (50 - 6), Tiles Damaged = 0
+117, ENHANCED TILES, At plot: 627, 627,
+117, ONEOFF, Severity = 1, Forest Fire, Center at: (51 - 6), Tiles Damaged = 0
+117, ENHANCED TILES, At plot: 721, 721,
+117, ONEOFF, Severity = 1, Forest Fire, Center at: (49 - 7), Tiles Damaged = 0
+117, ONEOFF, Severity = 1, Forest Fire, Center at: (51 - 7), Tiles Damaged = 0
+117, ONEOFF, Severity = 1, Forest Fire, Center at: (51 - 5), Tiles Damaged = 0
+117, ONEOFF, Severity = 1, Forest Fire, Center at: (52 - 6), Tiles Damaged = 0
+117, ONEOFF, Severity = 1, Forest Fire, Center at: (52 - 5), Tiles Damaged = 0
+117, ONEOFF, Severity = 1, Forest Fire, Center at: (53 - 6), Tiles Damaged = 0
+117, ONEOFF, Severity = 1, Forest Fire, Center at: (54 - 6), Tiles Damaged = 0
+117, ENHANCED TILES, At plot: 631, 631,
+117, ONEOFF, Severity = 1, Forest Fire, Center at: (55 - 6), Tiles Damaged = 0
+117, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 8, 7, 12, 14, 0
+118, ONEOFF, Severity = 1, Forest Fire, Center at: (50 - 6), Tiles Damaged = 0
+118, ONEOFF, Severity = 1, Forest Fire, Center at: (51 - 6), Tiles Damaged = 0
+118, ONEOFF, Severity = 1, Forest Fire, Center at: (49 - 7), Tiles Damaged = 0
+118, ENHANCED TILES, At plot: 723, 723,
+118, ONEOFF, Severity = 1, Forest Fire, Center at: (51 - 7), Tiles Damaged = 0
+118, ENHANCED TILES, At plot: 531, 531,
+118, ONEOFF, Severity = 1, Forest Fire, Center at: (51 - 5), Tiles Damaged = 0
+118, ENHANCED TILES, At plot: 628, 628,
+118, ONEOFF, Severity = 1, Forest Fire, Center at: (52 - 6), Tiles Damaged = 0
+118, ONEOFF, Severity = 1, Forest Fire, Center at: (52 - 5), Tiles Damaged = 0
+118, ONEOFF, Severity = 1, Forest Fire, Center at: (53 - 6), Tiles Damaged = 0
+118, ONEOFF, Severity = 1, Forest Fire, Center at: (54 - 6), Tiles Damaged = 0
+118, ONEOFF, Severity = 1, Forest Fire, Center at: (55 - 6), Tiles Damaged = 0
+118, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 8, 7, 12, 14, 0
+118, FLOOD MITIGATED, Severity=0, Colorado River, Floodplain at: (64 - 21)
+118, FLOOD MITIGATED, Severity=0, Colorado River, Floodplain at: (64 - 21)
+119, ONEOFF, Severity = 1, Forest Fire, Center at: (51 - 6), Tiles Damaged = 0
+119, ONEOFF, Severity = 1, Forest Fire, Center at: (49 - 7), Tiles Damaged = 0
+119, ONEOFF, Severity = 1, Forest Fire, Center at: (51 - 7), Tiles Damaged = 0
+119, ONEOFF, Severity = 1, Forest Fire, Center at: (51 - 5), Tiles Damaged = 0
+119, ONEOFF, Severity = 1, Forest Fire, Center at: (52 - 6), Tiles Damaged = 0
+119, ENHANCED TILES, At plot: 532, 532,
+119, ONEOFF, Severity = 1, Forest Fire, Center at: (52 - 5), Tiles Damaged = 0
+119, ENHANCED TILES, At plot: 629, 629,
+119, ONEOFF, Severity = 1, Forest Fire, Center at: (53 - 6), Tiles Damaged = 0
+119, ONEOFF, Severity = 1, Forest Fire, Center at: (54 - 6), Tiles Damaged = 0
+119, ONEOFF, Severity = 1, Forest Fire, Center at: (55 - 6), Tiles Damaged = 0
+119, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 8, 7, 12, 15, 0
+120, ONEOFF, Severity = 1, Forest Fire, Center at: (51 - 7), Tiles Damaged = 0
+120, ONEOFF, Severity = 1, Forest Fire, Center at: (51 - 5), Tiles Damaged = 0
+120, ONEOFF, Severity = 1, Forest Fire, Center at: (52 - 6), Tiles Damaged = 0
+120, ONEOFF, Severity = 1, Forest Fire, Center at: (52 - 5), Tiles Damaged = 0
+120, ONEOFF, Severity = 1, Forest Fire, Center at: (53 - 6), Tiles Damaged = 0
+120, ENHANCED TILES, At plot: 630, 630,
+120, ONEOFF, Severity = 1, Forest Fire, Center at: (54 - 6), Tiles Damaged = 0
+120, ONEOFF, Severity = 1, Forest Fire, Center at: (55 - 6), Tiles Damaged = 0
+120, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 8, 7, 12, 15, 0
+120, ONEOFF, Severity = 1, Forest Fire, Center at: (51 - 7), Tiles Damaged = 0
+120, ONEOFF, Severity = 1, Forest Fire, Center at: (51 - 5), Tiles Damaged = 0
+120, ONEOFF, Severity = 1, Forest Fire, Center at: (52 - 6), Tiles Damaged = 0
+120, ONEOFF, Severity = 1, Forest Fire, Center at: (52 - 5), Tiles Damaged = 0
+120, ONEOFF, Severity = 1, Forest Fire, Center at: (53 - 6), Tiles Damaged = 0
+120, ENHANCED TILES, At plot: 630, 630,
+120, ONEOFF, Severity = 1, Forest Fire, Center at: (54 - 6), Tiles Damaged = 0
+120, ONEOFF, Severity = 1, Forest Fire, Center at: (55 - 6), Tiles Damaged = 0
+120, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 8, 7, 12, 15, 0
+121, ONEOFF, Severity = 1, Forest Fire, Center at: (52 - 5), Tiles Damaged = 0
+121, ONEOFF, Severity = 1, Forest Fire, Center at: (53 - 6), Tiles Damaged = 0
+121, ONEOFF, Severity = 1, Forest Fire, Center at: (54 - 6), Tiles Damaged = 0
+121, ENHANCED TILES, At plot: 631, 631,
+121, ONEOFF, Severity = 1, Forest Fire, Center at: (55 - 6), Tiles Damaged = 0
+121, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 8, 7, 12, 15, 0
+121, STORM, Severity = 1, Category-4 Hurricane, Center at: (2 - 56), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+122, STORM, Severity = 1, Category-4 Hurricane, Center at: (92 - 53), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+122, STORM MOVEMENT, 5377,5472,5567,5471,5374,5373,5277,5180,
+122, ONEOFF, Severity = 1, Forest Fire, Center at: (54 - 6), Tiles Damaged = 0
+122, ONEOFF, Severity = 1, Forest Fire, Center at: (55 - 6), Tiles Damaged = 0
+122, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 8, 7, 12, 15, 0
+122, ERUPTION, Severity=1, Nevado del Ruiz, Volcano at: (70 - 35), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 5
+123, STORM, Severity = 1, Category-4 Hurricane, Center at: (94 - 51), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+123, STORM MOVEMENT, 5084,4987,4891,4795,4796,4893,4894,4990,
+123, ONEOFF, Severity = 1, Forest Fire, Center at: (55 - 6), Tiles Damaged = 0
+123, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 8, 8, 12, 15, 0
+123, ENHANCED TILES, At plot: 2958, 2958,
+123, ONEOFF, Severity = 1, Forest Fire, Center at: (78 - 30), Tiles Damaged = 0
+124, ONEOFF, Severity = 1, Forest Fire, Center at: (78 - 30), Tiles Damaged = 0
+124, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 8, 8, 12, 15, 0
+124, FLOOD, Severity = 1, Motagua River, Floodplain at: (41 - 19), Tiles Damaged = 2, Pop Lost = 2, Units Killed = 0, Fertility Added = 4
+125, ENHANCED TILES, At plot: 2958, 2958,
+125, ONEOFF, Severity = 1, Forest Fire, Center at: (78 - 30), Tiles Damaged = 0
+125, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 8, 8, 12, 16, 0
+126, ONEOFF, Severity = 1, Forest Fire, Center at: (78 - 30), Tiles Damaged = 0
+126, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 7, 8, 12, 16, 0
+127, ONEOFF, Severity = 1, Forest Fire, Center at: (78 - 30), Tiles Damaged = 0
+127, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 7, 8, 12, 16, 0
+128, ONEOFF, Severity = 1, Forest Fire, Center at: (78 - 30), Tiles Damaged = 0
+128, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 7, 8, 12, 16, 0
+128, STORM, Severity = 1, Gradient Dust Storm, Center at: (27 - 42), Tiles Damaged = 1, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+126, ONEOFF, Severity = 1, Forest Fire, Center at: (78 - 30), Tiles Damaged = 0
+126, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 7, 8, 12, 16, 0
+127, ONEOFF, Severity = 1, Forest Fire, Center at: (78 - 30), Tiles Damaged = 0
+127, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 7, 8, 12, 16, 0
+128, ONEOFF, Severity = 1, Forest Fire, Center at: (78 - 30), Tiles Damaged = 0
+128, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 7, 8, 12, 16, 0
+128, ENHANCED TILES, At plot: 4649, 4649,4458,
+128, STORM, Severity = 2, Crippling Blizzard, Center at: (41 - 48), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 2
+129, ENHANCED TILES, At plot: 4553, 4649,4650,4746,4458,4554,4362,
+129, ENHANCED TILES, At plot: 4650, 4841,4747,
+129, ENHANCED TILES, At plot: 4459, 4364,
+129, STORM, Severity = 2, Crippling Blizzard, Center at: (44 - 47), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 9
+129, STORM MOVEMENT, 4553,4650,4554,4459,4555,4556,
+129, ENHANCED TILES, At plot: 2958, 2958,
+129, ONEOFF, Severity = 1, Forest Fire, Center at: (78 - 30), Tiles Damaged = 0
+129, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 7, 8, 12, 16, 0
+130, ENHANCED TILES, At plot: 4751, 4944,
+130, STORM, Severity = 2, Crippling Blizzard, Center at: (47 - 49), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 1
+130, STORM MOVEMENT, 4557,4654,4655,4751,
+130, ONEOFF, Severity = 1, Forest Fire, Center at: (78 - 30), Tiles Damaged = 0
+130, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 7, 8, 12, 16, 0
+130, DROUGHT, Severity = 0, Major Drought, Center at: (65 - 44), Tiles Damaged = 2
+131, ONEOFF, Severity = 1, Forest Fire, Center at: (78 - 30), Tiles Damaged = 0
+131, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 7, 8, 12, 16, 0
+132, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 7, 8, 12, 16, 0
+133, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 7, 8, 12, 16, 0
+133, STORM, Severity = 1, Gradient Dust Storm, Center at: (74 - 25), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+134, ENHANCED TILES, At plot: 2472, 2568,
+134, STORM, Severity = 1, Gradient Dust Storm, Center at: (72 - 24), Tiles Damaged = 1, Pop Lost = 0, Units Killed = 0, Fertility Added = 1
+134, STORM MOVEMENT, 2378,2377,2472,2376,
+134, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 7, 8, 12, 16, 0
+135, ENHANCED TILES, At plot: 2375, 2375,
+135, ENHANCED TILES, At plot: 2278, 2374,
+135, STORM, Severity = 1, Gradient Dust Storm, Center at: (70 - 22), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 2
+135, STORM MOVEMENT, 2471,2375,2278,2182,
+135, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 7, 8, 12, 16, 0
+136, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 7, 8, 12, 16, 0
+137, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 7, 8, 12, 16, 0
+138, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 7, 8, 12, 16, 0
+138, DROUGHT, Severity = 0, Major Drought, Center at: (45 - 36), Tiles Damaged = 8
+139, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 7, 8, 12, 16, 0
+140, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 7, 8, 12, 16, 0
+141, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 7, 8, 12, 16, 0
+141, FLOOD, Severity = 1, Bahr Yussef, Floodplain at: (35 - 43), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 6
+142, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 7, 8, 12, 17, 0
+142, FLOOD, Severity = 0, Bahr Yussef, Floodplain at: (35 - 43), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 1
+143, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 7, 8, 12, 18, 0
+144, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 7, 8, 12, 18, 0
+145, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 7, 8, 12, 18, 0
+146, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 7, 8, 12, 18, 0
+147, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 7, 8, 12, 18, 0
+148, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 7, 8, 12, 18, 0
+149, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 7, 8, 12, 18, 0
+150, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 7, 8, 12, 18, 0
+151, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 7, 8, 12, 18, 0
+151, FLOOD, Severity = 1, Brisbane River, Floodplain at: (54 - 19), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 2
+152, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 7, 8, 12, 19, 0
+152, ERUPTION, Severity=1, Pacaya, Volcano at: (45 - 21), Tiles Damaged = 1, Pop Lost = 0, Units Killed = 0, Fertility Added = 3
+153, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 7, 9, 12, 19, 0
+153, STORM, Severity = 1, Significant Blizzard, Center at: (51 - 52), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+154, ENHANCED TILES, At plot: 5042, 5137,
+154, STORM, Severity = 1, Significant Blizzard, Center at: (47 - 51), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 1
+154, STORM MOVEMENT, 5042,5041,4944,4943,4847,4943,
+154, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 8, 9, 12, 19, 0
+154, ENHANCED TILES, At plot: 4181, 4277,
+154, STORM, Severity = 1, Gradient Dust Storm, Center at: (53 - 43), Tiles Damaged = 1, Pop Lost = 0, Units Killed = 0, Fertility Added = 1
+155, STORM, Severity = 1, Significant Blizzard, Center at: (44 - 52), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+155, STORM MOVEMENT, 4942,5038,5037,5036,
+155, ENHANCED TILES, At plot: 4182, 4182,4278,
+155, ENHANCED TILES, At plot: 4183, 4183,
+155, ENHANCED TILES, At plot: 4088, 4088,
+155, STORM, Severity = 1, Gradient Dust Storm, Center at: (56 - 43), Tiles Damaged = 2, Pop Lost = 0, Units Killed = 0, Fertility Added = 4
+155, STORM MOVEMENT, 4182,4183,4088,4184,
+155, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 8, 9, 12, 19, 0
+155, ERUPTION, Severity=0, Rucapillan, Volcano at: (48 - 29), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 2
+156, ENHANCED TILES, At plot: 4281, 4377,
+156, STORM, Severity = 1, Gradient Dust Storm, Center at: (59 - 46), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 1
+156, STORM MOVEMENT, 4281,4377,4474,4475,
+156, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 8, 10, 12, 19, 0
+156, STORM, Severity = 2, Tornado Outbreak, Center at: (44 - 36), Tiles Damaged = 1, Pop Lost = 1, Units Killed = 0, Fertility Added = 0
+157, STORM, Severity = 2, Tornado Outbreak, Center at: (38 - 35), Tiles Damaged = 9, Pop Lost = 1, Units Killed = 0, Fertility Added = 0
+157, STORM MOVEMENT, 3403,3499,3498,3497,3400,3304,3399,3398,
+157, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 8, 10, 12, 19, 0
+158, STORM, Severity = 2, Tornado Outbreak, Center at: (34 - 36), Tiles Damaged = 3, Pop Lost = 3, Units Killed = 0, Fertility Added = 0
+158, STORM MOVEMENT, 3494,3589,3588,3492,3587,3491,3490,
+158, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 8, 10, 12, 19, 0
+159, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 8, 10, 12, 19, 0
+159, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 8, 10, 12, 19, 0
+160, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 7, 10, 12, 19, 0
+160, ERUPTION, Severity=0, Tungurahua, Volcano at: (71 - 22), Tiles Damaged = 1, Pop Lost = 0, Units Killed = 0, Fertility Added = 1
+160, 2, 0, 0, 0, 0, 0, 0, 0, 11, 0, 7, 10, 12, 19, 0
+160, ERUPTION, Severity=0, Tungurahua, Volcano at: (71 - 22), Tiles Damaged = 1, Pop Lost = 0, Units Killed = 0, Fertility Added = 1

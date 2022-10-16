@@ -1,0 +1,41 @@
+Game Turn, Realism, Total CO2, CO2 Bldgs, CO2 Projects, CO2 Routes, CO2 Units, Deforestation, ClimateChange, Volcanoes (Total), NW Volcanoes, Volcanoes (Active), Eruptions, Floodable Rivers, Floods, NaturalWonderEruptions
+220, ONEOFF, Severity = 1, Forest Fire, Center at: (79 - 29), Tiles Damaged = 0
+220, 2, 163, 0, 0, 0, 0, 0, 0, 11, 0, 8, 16, 12, 25, 0
+221, 2, 183, 19680, 0, 0, 0, 0, 0, 11, 0, 8, 16, 12, 25, 0
+221, ONEOFF, Severity = 1, Meteor Shower, Center at: (72 - 56), Tiles Damaged = 0
+222, 2, 203, 39360, 0, 0, 0, 0, 0, 11, 0, 8, 16, 12, 25, 0
+222, FLOOD, Severity = 1, Rosetta River, Floodplain at: (35 - 43), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 3
+223, 2, 222, 59040, 0, 0, 0, 0, 0, 11, 0, 8, 16, 12, 26, 0
+224, 2, 245, 78720, 0, 3280, 0, 0, 0, 11, 0, 8, 16, 12, 26, 0
+224, DROUGHT, Severity = 0, Major Drought, Center at: (64 - 30), Tiles Damaged = 4
+225, 2, 268, 98400, 0, 6560, 0, 0, 0, 11, 0, 8, 16, 12, 26, 0
+226, 2, 291, 118080, 0, 9840, 0, 0, 0, 11, 0, 8, 16, 12, 26, 0
+226, FLOOD MITIGATED, Severity=2, Bahr Yussef, Floodplain at: (35 - 43)
+226, FLOOD MITIGATED, Severity=2, Bahr Yussef, Floodplain at: (35 - 43)
+227, 2, 313, 137760, 0, 9840, 1960, 0, 0, 11, 0, 8, 16, 12, 27, 0
+227, STORM, Severity = 2, Tornado Outbreak, Center at: (53 - 22), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+228, STORM, Severity = 2, Tornado Outbreak, Center at: (46 - 21), Tiles Damaged = 1, Pop Lost = 1, Units Killed = 0, Fertility Added = 0
+228, STORM MOVEMENT, 2164,2163,2066,2065,2161,2160,2159,2062,
+228, 2, 337, 157440, 0, 13120, 3920, 0, 0, 11, 0, 8, 16, 12, 27, 0
+229, STORM, Severity = 2, Tornado Outbreak, Center at: (49 - 18), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 0
+229, STORM MOVEMENT, 1966,1870,1871,1872,1777,
+229, 2, 360, 177120, 0, 16400, 4900, 0, 0, 11, 0, 8, 16, 12, 27, 0
+229, FLOOD, Severity = 0, Damietta River, Floodplain at: (42 - 35), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 2
+230, 2, 385, 196800, 0, 19680, 5880, 0, 0, 11, 0, 8, 16, 12, 28, 0
+231, 2, 408, 216480, 0, 22960, 6860, 0, 0, 11, 0, 8, 16, 12, 28, 0
+232, 2, 436, 238120, 0, 26240, 7840, 0, 0, 11, 0, 8, 16, 12, 28, 0
+233, 2, 460, 263040, 0, 26240, 8820, 0, 0, 11, 0, 8, 16, 12, 28, 0
+234, 2, 490, 287960, 0, 29520, 9800, 0, 0, 11, 0, 8, 16, 12, 28, 0
+235, 2, 519, 312880, 0, 32800, 10780, 0, 0, 11, 0, 8, 16, 12, 28, 0
+236, 2, 549, 337800, 0, 36080, 11760, 0, 0, 11, 0, 8, 16, 12, 28, 0
+237, 2, 577, 362720, 0, 39360, 12740, 0, 0, 11, 0, 8, 16, 12, 28, 0
+237, ONEOFF, Severity = 1, Meteor Shower, Center at: (49 - 54), Tiles Damaged = 0
+238, 2, 610, 390920, 0, 42640, 13720, 0, 0, 11, 0, 8, 16, 12, 28, 0
+239, 2, 644, 419120, 0, 45920, 15680, 0, 0, 11, 0, 8, 16, 12, 28, 0
+240, 2, 677, 447320, 0, 49200, 17640, 0, 0, 11, 0, 8, 16, 12, 28, 0
+240, DROUGHT, Severity = 0, Major Drought, Center at: (64 - 30), Tiles Damaged = 4
+241, 2, 710, 475520, 0, 52480, 19600, 0, 0, 11, 0, 8, 16, 12, 28, 0
+241, FLOOD MITIGATED, Severity=1, Colorado River, Floodplain at: (64 - 21)
+241, FLOOD MITIGATED, Severity=1, Colorado River, Floodplain at: (64 - 21)
+242, 2, 744, 503720, 0, 55760, 21560, 0, 0, 11, 0, 8, 16, 12, 29, 0
+242, ERUPTION, Severity=0, Mount Pelée, Volcano at: (39 - 42), Tiles Damaged = 0, Pop Lost = 0, Units Killed = 0, Fertility Added = 5
